@@ -76,6 +76,63 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0413FC392CE77C81009DE491 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0439028E2CE717C400CED386 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		0413FC3A2CE77C9F009DE491 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		0413FC3B2CE77CA5009DE491 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		0413FC3C2CE77CB1009DE491 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		0413FC3D2CE77CB8009DE491 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		0413FC3E2CE77CC1009DE491 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		0413FC3F2CE77CCF009DE491 /* UnitTests */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = UnitTests;
+			sourceTree = "<group>";
+		};
+		0413FC402CE77CE9009DE491 /* Coordinators */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Coordinators;
+			sourceTree = "<group>";
+		};
 		043902792CE717C100CED386 = {
 			isa = PBXGroup;
 			children = (
@@ -102,8 +159,15 @@
 				043902852CE717C100CED386 /* AppDelegate.swift */,
 				043902872CE717C100CED386 /* SceneDelegate.swift */,
 				043902892CE717C100CED386 /* ViewController.swift */,
+				0413FC3A2CE77C9F009DE491 /* Models */,
+				0413FC3C2CE77CB1009DE491 /* Views */,
+				0413FC3B2CE77CA5009DE491 /* ViewModels */,
+				0413FC402CE77CE9009DE491 /* Coordinators */,
+				0413FC3D2CE77CB8009DE491 /* Services */,
+				0413FC3E2CE77CC1009DE491 /* Extensions */,
+				0413FC392CE77C81009DE491 /* Resources */,
+				0413FC3F2CE77CCF009DE491 /* UnitTests */,
 				0439028B2CE717C100CED386 /* Main.storyboard */,
-				0439028E2CE717C400CED386 /* Assets.xcassets */,
 				043902902CE717C400CED386 /* LaunchScreen.storyboard */,
 				043902932CE717C400CED386 /* Info.plist */,
 			);
